@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Repositorytodo/static/css/main.b99d0cb2.css",
-    "main.js": "/Repositorytodo/static/js/main.a6b6a431.js",
-    "static/js/787.63e47474.chunk.js": "/Repositorytodo/static/js/787.63e47474.chunk.js",
-    "index.html": "/Repositorytodo/index.html",
-    "main.b99d0cb2.css.map": "/Repositorytodo/static/css/main.b99d0cb2.css.map",
-    "main.a6b6a431.js.map": "/Repositorytodo/static/js/main.a6b6a431.js.map",
-    "787.63e47474.chunk.js.map": "/Repositorytodo/static/js/787.63e47474.chunk.js.map"
+    "main.css": "/todo/static/css/main.b99d0cb2.css",
+    "main.js": "/todo/static/js/main.a074b4cb.js",
+    "static/js/787.63e47474.chunk.js": "/todo/static/js/787.63e47474.chunk.js",
+    "index.html": "/todo/index.html",
+    "main.b99d0cb2.css.map": "/todo/static/css/main.b99d0cb2.css.map",
+    "main.a074b4cb.js.map": "/todo/static/js/main.a074b4cb.js.map",
+    "787.63e47474.chunk.js.map": "/todo/static/js/787.63e47474.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b99d0cb2.css",
-    "static/js/main.a6b6a431.js"
+    "static/js/main.a074b4cb.js"
   ]
 }
